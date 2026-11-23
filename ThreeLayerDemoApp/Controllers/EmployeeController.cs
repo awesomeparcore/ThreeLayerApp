@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using ThreeLayerDemoApp.Models;
 using DataAccessLayer.Entities;
-//this is my dummy push for assignment 009
 
 namespace ThreeLayerDemoApp.Controllers
 {
